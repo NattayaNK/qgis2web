@@ -1,0 +1,38 @@
+body
+{background-color: azure;}
+p{color: beige;}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:gray ;
+    border-width: 10px;
+    width:50% ;}
+
+h1{
+    color: #cbf3f1;
+    font-size: 200px;
+}
+p{
+
+color: #f6c7f8;
+
+}
+    img{background-color: rgb(6, 160, 160);}
+
+.broccoli{
+
+    /*clas selection*/
+    background-color: azure;
+}
+.mushroom{
+    background-color: rgb(230, 248, 127);
+}
+.cirular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: rgb(247, 143, 178);
+    font-style: italic;
+}
